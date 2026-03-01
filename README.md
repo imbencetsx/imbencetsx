@@ -1,9 +1,5 @@
 # 👋 Hi, ImBence.tsx
 ---
-🚀 Beginner Junior Developer  
-💡 Learning by building real projects  
-🛠️ Interested in software development, clean code, and practical problem solving
----
  🌱 About Me
 I'm **Bence**, a beginner junior developer working on improving my coding skills every day.  
 I enjoy building small projects, learning new tools, and turning ideas into working software.
