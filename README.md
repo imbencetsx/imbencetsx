@@ -1,4 +1,5 @@
 #👋 Hi, ImBence.tsx
+
 🚀 Beginner Junior Developer  
 💡 Learning by building real projects  
 🛠️ Interested in software development, clean code, and practical problem solving
