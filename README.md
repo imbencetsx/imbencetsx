@@ -12,16 +12,6 @@ Right now, my goal is to become a strong full-stack developer with solid fundame
 - **Backend:** Node.js (basics)
 - **Tools:** Git, GitHub, VS Code, Linux terminal, Codex
 ---
- 📌 Current Focus
-- Building consistent coding habits
-- Understanding how real applications are structured
-- Improving problem-solving skills
----
- 🎯 Goals for This Year
-- Build and publish multiple complete projects
-- Contribute to open-source (small contributions first)
-- Get my first junior developer opportunity
----
  📫 Contact
 - Discord: `@cacto.zip`
 - Email: `cacto.mc.cx@gmail.com`
