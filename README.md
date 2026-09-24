@@ -9,9 +9,9 @@ I got into Linux through my Raspberry Pi 5, which eventually led me to programmi
 * **Languages:** JavaScript, TypeScript, Python, Swift
 * **Other:** React, Vite, SwiftUI, 
 
-### 📫 Contact
+### 🍏 Contact
 
 * Discord: `@imbencetsx`
 * Email: `imbencetsx.proton.me`
 
-Most of the stuff here is just me building things, experimenting, and learning. 🫒
+Most of the stuff here is just me building things, experimenting, and learning.
