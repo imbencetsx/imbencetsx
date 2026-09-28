@@ -12,6 +12,6 @@ I got into Linux through my Raspberry Pi 5, which eventually led me to programmi
 ### 🍏 Contact
 
 * Discord: `@imbencetsx`
-* Email: `imbencetsx.proton.me`
+* Email: `imbencetsx@proton.me`
 
 Most of the stuff here is just me building things, experimenting, and learning.
